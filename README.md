@@ -1,2 +1,2 @@
-# Terminal-plus-plus-for-Robot-Researcher-Using-C-sarp
+# Terminal-plus-plus-for-Robot-Researcher-Using-C-sharp
 Sometimes our robot researcher needs a terminal program to exchange the data with the robot or automation device. Nevertheless, the readily available terminal program lacks some functionality that is most relevant to the researcher. We feel that a featured rich terminal program can handle lots of communication overhead for the researcher and relieve them from repetitive and time-consuming tasks. In mind for this, we researched and developed a utility program. With the already available feature, we added extra features like automatic send, change dynamic data, etc., so our robot research tests the system communication better.
